@@ -84,12 +84,14 @@ Focused on practical software engineering: building production-ready full-stack 
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/card-upcoming.svg" width="100%" alt="Upcoming Projects" />
+      <a href="https://github.com/firstphethay11/ai-and-os-coursework">
+        <img src="assets/card-ai-os.svg" width="100%" alt="AI &amp; Operating Systems Coursework" />
+      </a>
       <br /><br />
-      <b>Upcoming Repositories &amp; Research</b><br />
-      <code>In Progress</code> &bull; <code>Open Source</code>
+      <b>AI &amp; Operating Systems Coursework</b><br />
+      <code>TensorFlow</code> &bull; <code>Keras</code> &bull; <code>NumPy</code> &bull; <code>OS Algorithms</code>
       <p>
-        Continuously building and releasing new software engineering, web application, and embedded microcontroller projects.
+        Deep Learning CNN binary image classification alongside Dijkstra's Banker's Algorithm deadlock avoidance simulation.
       </p>
     </td>
   </tr>
