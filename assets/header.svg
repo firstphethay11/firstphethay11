@@ -28,10 +28,8 @@
   </defs>
 
   <style>
-    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 800; font-size: 32px; fill: #ffffff; letter-spacing: 1.2px; }
-    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 14.5px; fill: #ffedd5; letter-spacing: 0.5px; }
-    .mono { font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 12.5px; fill: #fde68a; }
-    .badge-txt { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 600; font-size: 11px; fill: #fed7aa; letter-spacing: 0.8px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 800; font-size: 38px; fill: #ffffff; letter-spacing: 1.2px; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 16.5px; fill: #ffedd5; letter-spacing: 0.5px; }
   </style>
 
   <!-- Clip boundary for rounded card -->
@@ -80,27 +78,13 @@
       <path d="M 0,6 Q -3,18 2,28" stroke="#14532d" stroke-width="1.8" fill="none"/>
     </g>
 
-    <!-- Content Group -->
-    <g transform="translate(52, 34)">
-      <!-- Mini Pill Badge -->
-      <g>
-        <rect x="0" y="0" width="285" height="26" rx="13" fill="#000000" fill-opacity="0.38" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="1"/>
-        <circle cx="14" cy="13" r="4" fill="#22c55e"/>
-        <circle cx="14" cy="13" r="7" fill="#22c55e" opacity="0.25"/>
-        <text x="26" y="17" class="badge-txt">FIRSTPHETHAY11 // RMUTI CPE</text>
-      </g>
-
+    <!-- Clean Typography Group (Centered Vertically) -->
+    <g transform="translate(60, 105)">
       <!-- Main Title -->
-      <text x="0" y="66" class="title" filter="url(#textGlow)">Jirawat Thiamthanong</text>
+      <text x="0" y="0" class="title" filter="url(#textGlow)">Jirawat Thiamthanong</text>
 
       <!-- Subtitle -->
-      <text x="1" y="94" class="subtitle" filter="url(#subtleShadow)">Computer Engineering • Full-Stack Web &amp; Embedded Systems</text>
-
-      <!-- Terminal Quote Tagline -->
-      <g transform="translate(0, 114)">
-        <rect x="0" y="0" width="460" height="28" rx="6" fill="#000000" fill-opacity="0.45" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
-        <text x="14" y="19" class="mono">&gt; "No fluff. Just systems that actually work."</text>
-      </g>
+      <text x="2" y="32" class="subtitle" filter="url(#subtleShadow)">Computer Engineering • Full-Stack Web &amp; Embedded Systems</text>
     </g>
 
     <!-- Outer Border -->

@@ -13,14 +13,14 @@
 
 ---
 
-### // 01. Overview
+### 01. Overview
 
 Computer Engineering student at **Rajamangala University of Technology Isan (RMUTI)**.  
 Focused on practical software engineering: building production-ready full-stack web applications and programming microcontrollers for real-world automation.
 
 ---
 
-### // 02. Real Projects & Repos
+### 02. Real Projects & Repos
 
 #### RMUTI Dormitory System `Demo Prototype`
 > **Full-Stack Student Dormitory & Maintenance Repair Platform**  
@@ -56,7 +56,7 @@ Focused on practical software engineering: building production-ready full-stack 
 
 ---
 
-### // 03. Tech Stack (In Actual Use)
+### 03. Tech Stack (In Actual Use)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,nodejs,express,mysql,cloudflare,docker,nginx,git,linux,c,cpp,py,arduino&theme=dark&perline=8" alt="Tech Stack" />
@@ -64,7 +64,7 @@ Focused on practical software engineering: building production-ready full-stack 
 
 ---
 
-### // 04. Contact
+### 04. Contact
 
 ```text
 GitHub    : https://github.com/firstphethay11
