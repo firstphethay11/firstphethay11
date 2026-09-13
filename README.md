@@ -25,7 +25,7 @@ Focused on practical software engineering: building production-ready full-stack 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/firstphethay11/rmuti-dormitory">
+      <a href="https://github.com/Painter121/rmuti-dormitory-demo">
         <img src="assets/card-dormitory.svg" width="100%" alt="RMUTI Dormitory System" />
       </a>
       <br /><br />
