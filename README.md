@@ -160,6 +160,27 @@
         <li><strong>RESTful API Integration:</strong> เชื่อมต่อข้อมูลกับ Web Backend Service แบบไดนามิก</li>
         <li><strong>State Management:</strong> จัดการสถานะและการทำงานของข้อมูลภายในแอปพลิเคชันอย่างเป็นระบบ</li>
       </ul>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🛍️ Louis Vuitton E-Commerce Web Simulation (Educational Project)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Purpose-Educational%20Only-orange?style=flat-square" />
+      </p>
+      <p>
+        <strong>ระบบร้านค้าออนไลน์จำลอง Louis Vuitton (Full-Stack Web Simulation)</strong><br/>
+        <sub>⚠️ <em>ข้อความชี้แจง: โครงงานนี้จัดทำขึ้นเพื่อการศึกษาในรายวิชาการพัฒนาเว็บแอปพลิเคชันเท่านั้น มิได้มีเจตนาเพื่อการค้า นำไปใช้ในเชิงพาณิชย์ หรือแสวงหาผลกำไรแต่อย่างใด ลิขสิทธิ์และเครื่องหมายการค้าทั้งหมดเป็นของแบรนด์ Louis Vuitton (LVMH)</em></sub>
+      </p>
+      <ul>
+        <li><strong>Interactive E-Commerce Frontend:</strong> พัฒนาหน้าแสดงรายการสินค้า ค้นหา ตะกร้าสินค้า และเลย์เอาต์สไตล์ Luxury Brand</li>
+        <li><strong>Backend RESTful API:</strong> ให้บริการดึงข้อมูลสินค้า หมวดหมู่ และการจัดการสถานะสินค้าผ่าน Express.js</li>
+        <li><strong>Comprehensive Documentation:</strong> มีเล่มรายงานโครงงานฉบับสมบูรณ์และการวิเคราะห์ระบบครบวงจร</li>
+      </ul>
     </td>
   </tr>
 </table>
