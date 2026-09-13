@@ -22,44 +22,45 @@ Focused on practical software engineering: building production-ready full-stack 
 
 ### 02. Real Projects & Repos
 
-#### RMUTI Dormitory System `Demo Prototype`
+#### [RMUTI Dormitory System (Demo Prototype)](https://github.com/firstphethay11/rmuti-dormitory)
 > **Full-Stack Student Dormitory & Maintenance Repair Platform**  
-> `React 19` • `Tailwind v4` • `Express 5` • `MySQL 8.4` • `Docker` • `Socket.IO` • `Cloudflare R2`
+> `React 19` • `Tailwind v4` • `Express 5` • `MySQL 8.4` • `Docker` • `Socket.IO`
 
-- **Demo & Simulation:** Built with an interactive showcase environment (`VITE_DEMO_MODE`) featuring a role-switcher bar to test end-to-end workflows across Students, Maintenance Technicians, and Dorm Admins.
-- **Frontend:** React 19, Vite, Tailwind CSS v4, TanStack Query, Radix UI, Framer Motion, and FullCalendar.
-- **Backend & Data:** Node.js, Express 5, MySQL 8.4, and Cloudflare R2 (S3-compatible) object storage with presigned URLs.
-- **Security & Realtime:** Multi-role RBAC, JWT authentication with refresh token rotation, CSRF protection, and WebSocket (Socket.IO) real-time event updates.
-- **Operations:** Containerized development & production Docker Compose configs, Nginx reverse proxy, and automated database backup scripts with SHA-256 verification.
+- Web-based maintenance ticketing platform with a role-switching demo environment (Students, Technicians, Admin).
+- Features real-time repair status updates, secure JWT/CSRF authentication, and Dockerized deployment.
 
 #### [IoT & Microcontroller Systems](https://github.com/firstphethay11/iot-microcontroller-coursework)
-> **Hardware Interfacing, Embedded Control, and Cloud Automation**  
-> `ESP32` • `MicroPython` • `Arduino C++` • `Firebase Realtime` • `I2C / UART`
+> **Hardware Interfacing, Embedded Control & Cloud Automation**  
+> `ESP32` • `MicroPython` • `Arduino C++` • `Firebase` • `I2C / UART`
 
-- **Dual-Zone Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 precision RTC, 20x4 I2C LCD, and relay actuation for automated scheduling and thermal threshold triggers.
-- **Cloud-Connected DC Motor Control:** ESP32 firmware running Arduino C++ linked with Firebase Realtime Database and a web dashboard for remote PWM speed and direction control.
-- **Coursework Labs:** TCP socket client/server communication, on-chip HTTP webservers, UART, matrix keypads, ADC sensor sampling, and hardware interrupts.
+- Dual-zone temperature & scheduled timer controller with DS3231 precision RTC, 20x4 I2C LCD, and relay automation.
+- Cloud-connected DC motor PWM controller synced via Firebase Realtime Database and a web dashboard.
+
+#### [Mobile Application Development](https://github.com/firstphethay11/flutter-mobile-coursework)
+> **Cross-Platform Mobile Apps Coursework**  
+> `Flutter` • `Dart` • `REST APIs` • `Android`
+
+- Practical mobile applications and UI/UX coursework developed with Flutter and Dart.
+- Hands-on integration with RESTful backend APIs and responsive mobile layouts.
 
 #### [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
-> **RMUTI CPE Web Application Development Labs & Practical Exams**  
-> `Node.js` • `Express` • `Tailwind CSS` • `REST APIs` • `MySQL`
+> **Web Application Engineering Labs & Exams**  
+> `Node.js` • `Express` • `Tailwind CSS` • `MySQL`
 
-- Hands-on coursework covering modern web fundamentals, responsive layouts with Tailwind CSS, and REST API service design.
-- Database integrations with MySQL and Node.js backend pipelines.
+- Coursework covering responsive design layouts, modern web fundamentals, and REST API services.
 
 #### [Louis Vuitton E-Commerce Simulation](https://github.com/firstphethay11/louis-vuitton-fullstack)
-> **Educational Luxury E-Commerce Full-Stack Architecture Simulation**  
-> `JavaScript` • `Express.js` • `MySQL` • `Responsive CSS`
+> **Educational Luxury E-Commerce Architecture Simulation**  
+> `JavaScript` • `Express` • `MySQL`
 
-- Reconstructed full-stack luxury store interface exploring dynamic product catalogs, cart state management, and Express/MySQL backend data flows.
-- *Strictly built for academic and software architecture study.*
+- Full-stack e-commerce simulation exploring product catalogs, shopping cart state, and backend API data flows.
 
 ---
 
 ### 03. Tech Stack (In Actual Use)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,nodejs,express,mysql,cloudflare,docker,nginx,git,linux,c,cpp,py,arduino&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,dart,js,nodejs,express,mysql,cloudflare,docker,nginx,git,linux,c,cpp,py,arduino&theme=dark&perline=9" alt="Tech Stack" />
 </p>
 
 ---
