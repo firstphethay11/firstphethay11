@@ -27,7 +27,7 @@ Focused on practical engineering: building production-ready full-stack web appli
 
 ### // 02. Real Projects & Repos
 
-#### 🏢 RMUTI Dormitory System (Demo Prototype)
+#### RMUTI Dormitory System (Demo Prototype)
 > Full-Stack Student Dormitory & Maintenance Repair Platform (Interactive Demo & Architecture Prototype)
 
 - **Demo & Simulation:** Built with an interactive showcase environment (`VITE_DEMO_MODE`) featuring a role-switcher bar to test end-to-end workflows across Students, Maintenance Technicians, and Dorm Admins.
@@ -36,20 +36,20 @@ Focused on practical engineering: building production-ready full-stack web appli
 - **Security & Realtime:** Multi-role RBAC, JWT authentication with refresh token rotation, CSRF protection, and WebSocket (Socket.IO) real-time event updates.
 - **Operations:** Containerized development & production Docker Compose configs, Nginx reverse proxy, and automated database backup scripts with SHA-256 verification.
 
-#### ⚡ [IoT & Microcontroller Systems](https://github.com/firstphethay11/iot-microcontroller-coursework)
+#### [IoT & Microcontroller Systems](https://github.com/firstphethay11/iot-microcontroller-coursework)
 > Hardware Interfacing, Embedded Control, and Cloud Automation (ESP32 & Arduino)
 
 - **Dual-Zone Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 precision RTC, 20x4 I2C LCD, and relay actuation for automated scheduling and thermal threshold triggers.
 - **Cloud-Connected DC Motor Control:** ESP32 firmware running Arduino C++ linked with Firebase Realtime Database and a web dashboard for remote PWM speed and direction control.
 - **Coursework Labs:** TCP socket client/server communication, on-chip HTTP webservers, UART, matrix keypads, ADC sensor sampling, and hardware interrupts.
 
-#### 🌐 [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
+#### [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
 > RMUTI CPE Web Application Development Labs & Practical Exams
 
 - Hands-on coursework covering modern web fundamentals, responsive layouts with Tailwind CSS, and REST API service design.
 - Database integrations with MySQL and Node.js backend pipelines.
 
-#### 🛍️ [Louis Vuitton E-Commerce Simulation](https://github.com/firstphethay11/louis-vuitton-fullstack)
+#### [Louis Vuitton E-Commerce Simulation](https://github.com/firstphethay11/louis-vuitton-fullstack)
 > Educational Luxury E-Commerce Full-Stack Architecture Simulation
 
 - Reconstructed full-stack luxury store interface exploring dynamic product catalogs, cart state management, and Express/MySQL backend data flows.
