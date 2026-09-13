@@ -26,74 +26,71 @@ Focused on practical software engineering: building production-ready full-stack 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/rmuti-dormitory">
-        <img src="https://img.shields.io/badge/01-RMUTI%20Dormitory%20System-ea580c?style=flat-square&logo=github&logoColor=white" height="24" alt="RMUTI Dormitory System" />
+        <img src="assets/proj-01.svg" width="100%" alt="RMUTI Dormitory System" />
       </a>
-      <br />
-      <b>Full-Stack Student Dormitory Platform (Demo Prototype)</b><br />
+      <br /><br />
+      <b>Student Dormitory &amp; Maintenance Platform</b><br />
       <code>React 19</code> • <code>Tailwind v4</code> • <code>Express 5</code> • <code>Docker</code>
-      <ul>
-        <li>Web-based maintenance ticketing platform with a role-switching demo environment (Students, Technicians, Admin).</li>
-        <li>Features real-time repair status updates, secure JWT/CSRF authentication, and Dockerized deployment.</li>
-      </ul>
+      <p>
+        Online maintenance ticketing platform featuring a multi-role simulation environment and real-time repair status tracking.
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/iot-microcontroller-coursework">
-        <img src="https://img.shields.io/badge/02-IoT%20%26%20Microcontroller-f59e0b?style=flat-square&logo=github&logoColor=white" height="24" alt="IoT & Microcontroller Systems" />
+        <img src="assets/proj-02.svg" width="100%" alt="IoT & Microcontroller" />
       </a>
-      <br />
-      <b>Hardware Interfacing & Embedded Automation</b><br />
+      <br /><br />
+      <b>Hardware Interfacing &amp; Embedded Automation</b><br />
       <code>ESP32</code> • <code>MicroPython</code> • <code>Arduino C</code> • <code>Firebase</code>
-      <ul>
-        <li>Dual-zone temperature & scheduled timer controller with DS3231 precision RTC, 20x4 LCD, and relay automation.</li>
-        <li>Cloud-connected DC motor PWM controller synced via Firebase Realtime Database and a web dashboard.</li>
-      </ul>
+      <p>
+        Dual-zone temperature/timer controller with RTC &amp; LCD, plus cloud-connected DC motor control via Firebase Realtime Database.
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/flutter-mobile-coursework">
-        <img src="https://img.shields.io/badge/03-Mobile%20App%20Development-d97706?style=flat-square&logo=github&logoColor=white" height="24" alt="Mobile Application Development" />
+        <img src="assets/proj-03.svg" width="100%" alt="Mobile App Development" />
       </a>
-      <br />
+      <br /><br />
       <b>Cross-Platform Mobile Apps Coursework</b><br />
       <code>Flutter</code> • <code>Dart</code> • <code>REST APIs</code> • <code>Android</code>
-      <ul>
-        <li>Practical mobile applications and UI/UX coursework developed with Flutter and Dart.</li>
-        <li>Hands-on integration with RESTful backend APIs and responsive mobile layouts.</li>
-      </ul>
+      <p>
+        Practical mobile application coursework covering reactive state, device hardware integration, and RESTful API services.
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/web-dev-coursework">
-        <img src="https://img.shields.io/badge/04-Web%20Dev%20Coursework-ea580c?style=flat-square&logo=github&logoColor=white" height="24" alt="Web Development Coursework" />
+        <img src="assets/proj-04.svg" width="100%" alt="Web Dev Coursework" />
       </a>
-      <br />
-      <b>Web Application Engineering Labs & Exams</b><br />
+      <br /><br />
+      <b>Web Application Engineering Labs &amp; Exams</b><br />
       <code>Node.js</code> • <code>Express</code> • <code>Tailwind CSS</code> • <code>MySQL</code>
-      <ul>
-        <li>Coursework covering responsive design layouts, modern web fundamentals, and REST API services.</li>
-      </ul>
+      <p>
+        Coursework and practical exams covering modern responsive web design, frontend UI components, and backend REST APIs.
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/louis-vuitton-fullstack">
-        <img src="https://img.shields.io/badge/05-Louis%20Vuitton%20Simulation-f97316?style=flat-square&logo=github&logoColor=white" height="24" alt="Louis Vuitton E-Commerce Simulation" />
+        <img src="assets/proj-05.svg" width="100%" alt="Louis Vuitton Simulation" />
       </a>
-      <br />
-      <b>Educational Luxury E-Commerce Architecture Simulation</b><br />
+      <br /><br />
+      <b>Educational Luxury E-Commerce Simulation</b><br />
       <code>JavaScript</code> • <code>Express</code> • <code>MySQL</code>
-      <ul>
-        <li>Full-stack e-commerce simulation exploring product catalogs, shopping cart state, and backend API data flows.</li>
-      </ul>
+      <p>
+        Full-stack e-commerce simulation exploring dynamic product catalogs, persistent shopping cart state, and backend API flows.
+      </p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/06-More%20Projects%20Coming%20Soon-27272a?style=flat-square&logo=github&logoColor=white" height="24" alt="More Projects" />
-      <br />
-      <b>Upcoming Repositories & Research</b><br />
+      <img src="assets/proj-06.svg" width="100%" alt="Upcoming Projects" />
+      <br /><br />
+      <b>Upcoming Repositories &amp; Research</b><br />
       <code>In Progress</code> • <code>Open Source</code>
-      <ul>
-        <li>Continuously building and releasing new software engineering projects.</li>
-      </ul>
+      <p>
+        Continuously building and releasing new software engineering, web application, and embedded microcontroller projects.
+      </p>
     </td>
   </tr>
 </table>
@@ -102,9 +99,32 @@ Focused on practical software engineering: building production-ready full-stack 
 
 ### 03. Tech Stack (In Actual Use)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,dart,js,nodejs,c,py,arduino,docker,git,cloudflare&theme=dark&perline=7" alt="Tech Stack" />
-</p>
+<div align="center">
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <p><b>Web &amp; Frontend</b></p>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,nodejs&theme=dark" alt="Web & Frontend" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <p><b>Mobile Apps</b></p>
+      <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile Apps" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <p><b>Embedded &amp; IoT</b></p>
+      <img src="https://skillicons.dev/icons?i=c,py,arduino&theme=dark" alt="Embedded & IoT" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <p><b>DevOps &amp; Cloud</b></p>
+      <img src="https://skillicons.dev/icons?i=docker,git,cloudflare&theme=dark" alt="DevOps & Cloud" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
