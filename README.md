@@ -15,8 +15,7 @@
 
 ### 01. Overview
 
-Computer Engineering student at **Rajamangala University of Technology Isan (RMUTI)**.  
-Focused on practical software engineering: building production-ready full-stack web applications and programming microcontrollers for real-world automation.
+<img src="assets/overview-animated.svg" width="100%" alt="Jirawat Thiamthanong - Computer Engineering @ RMUTI" />
 
 ---
 
