@@ -94,6 +94,22 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/firstphethay11/cisco-network-engineering-coursework">
+        <img src="assets/card-cisco.svg" width="100%" alt="Cisco Network Engineering" />
+      </a>
+      <br /><br />
+      <b>Cisco CCNA Network Engineering Coursework</b><br />
+      <code>Packet Tracer</code> &bull; <code>OSPFv2</code> &bull; <code>802.1Q VLAN</code> &bull; <code>ACL / NAT</code>
+      <p>
+        Modular enterprise simulation architectures covering multi-area dynamic routing, VLAN segmentation, and edge security gateways.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Future coursework or project -->
+    </td>
+  </tr>
 </table>
 
 ---
