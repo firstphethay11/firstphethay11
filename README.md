@@ -132,25 +132,42 @@ Focused on practical software engineering: building production-ready full-stack 
 
 <div align="center">
 
-  <p>
-    <a href="https://github.com/firstphethay11" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/phethay-genko-602261427/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:nongfirst.aoy@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-    </a>
-  </p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33.3%" valign="top">
+      <a href="https://github.com/firstphethay11" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" />
+        <br /><br />
+        <b>GitHub</b>
+        <br />
+        <sub>@firstphethay11</sub>
+      </a>
+    </td>
+    <td align="center" width="33.3%" valign="top">
+      <a href="https://www.linkedin.com/in/phethay-genko-602261427/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" />
+        <br /><br />
+        <b>LinkedIn</b>
+        <br />
+        <sub>Jirawat Thiamthanong</sub>
+      </a>
+    </td>
+    <td align="center" width="33.3%" valign="top">
+      <a href="mailto:nongfirst.aoy@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email" />
+        <br /><br />
+        <b>Email</b>
+        <br />
+        <sub>nongfirst.aoy@gmail.com</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <p>
-    📍 Nakhon Ratchasima, Thailand
-  </p>
+<p>
+  📍 <b>Nakhon Ratchasima, Thailand</b>
+</p>
 
-  <br />
-  <sub>Warm tones &amp; clean code. Built by Jirawat Thiamthanong.</sub>
+<sub>Warm tones &amp; clean code. Built by Jirawat Thiamthanong.</sub>
 
 </div>
