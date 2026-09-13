@@ -37,11 +37,11 @@ Focused on practical engineering: building production-ready full-stack web appli
 - **Operations:** Containerized development & production Docker Compose configs, Nginx reverse proxy, and automated database backup scripts with SHA-256 verification.
 
 #### [IoT & Microcontroller Systems](https://github.com/firstphethay11/iot-microcontroller-coursework)
-> Hardware Interfacing, Embedded Control, and Cloud Automation (ESP32 & MicroPython)
+> Hardware Interfacing, Embedded Control, and Cloud Automation (ESP32 & Arduino)
 
-- **Precision Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 RTC, 16x2 I2C LCD, 4x4 keypad, and relay/buzzer actuation supporting 14 interactive runtime commands.
-- **Smart Lighting & Environment Automation:** ESP32 MicroPython system with BH1750 ambient light sensor, PWM dimmer, DS3231 RTC, BLE, and Firebase Realtime Database paired with the custom Core Control WebApp dashboard.
-- **Coursework Labs:** 14 modular lab modules covering Digital I/O, ADC sensor sampling, PWM, UART, I2C, SPI, timers, interrupts, and IoT sensor-actuator integration.
+- **Dual-Zone Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 precision RTC, 20x4 I2C LCD, and relay actuation for automated scheduling and thermal threshold triggers.
+- **Cloud-Connected DC Motor Control:** ESP32 firmware running Arduino C++ linked with Firebase Realtime Database and a web dashboard for remote PWM speed and direction control.
+- **Coursework Labs:** TCP socket client/server communication, on-chip HTTP webservers, UART, matrix keypads, ADC sensor sampling, and hardware interrupts.
 
 #### [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
 > RMUTI CPE Web Application Development Labs & Practical Exams
@@ -59,13 +59,9 @@ Focused on practical engineering: building production-ready full-stack web appli
 
 ### // 03. Tech Stack (In Actual Use)
 
-```text
-Backend        │ Node.js, Express, RESTful APIs, WebSockets (Socket.IO), JWT, CSRF
-Frontend       │ React, Vite, Tailwind CSS, TanStack Query, Radix UI, HTML5 / CSS3
-Databases      │ MySQL 8.4, Cloudflare R2 (S3 API)
-Embedded / IoT │ ESP32, Arduino, MicroPython, C / C++, I2C, UART, Sensors (RTC, ADC)
-Tools & DevOps │ Docker, Docker Compose, Nginx, Git, Linux / PowerShell
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,nodejs,express,mysql,cloudflare,docker,nginx,git,linux,c,cpp,py,arduino&theme=dark&perline=8" alt="Tech Stack" />
+</p>
 
 ---
 
