@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 56" width="100%" height="56">
+  <defs>
+    <linearGradient id="bg_linkedin" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2b48"/>
+      <stop offset="100%" stop-color="#18181b"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="56" rx="10" fill="url(#bg_linkedin)" stroke="#0ea5e9" stroke-opacity="0.3" stroke-width="1.2"/>
+  <circle cx="34" cy="28" r="17" fill="#000000" fill-opacity="0.4"/>
+  <path fill="#38bdf8" transform="translate(24, 18) scale(0.83)" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/>
+  <text x="64" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="14.5" fill="#ffffff" letter-spacing="0.3px">LinkedIn</text>
+  <text x="64" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="12" fill="#93c5fd">Jirawat Thiamthanong</text>
+  <g transform="translate(315, 16)">
+    <rect width="90" height="24" rx="6" fill="#0ea5e9" fill-opacity="0.15" stroke="#0ea5e9" stroke-opacity="0.4"/>
+    <text x="45" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="700" font-size="10.5" fill="#7dd3fc" text-anchor="middle" letter-spacing="0.5px">CONNECT ↗</text>
+  </g>
+</svg>

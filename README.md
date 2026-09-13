@@ -130,44 +130,33 @@ Focused on practical software engineering: building production-ready full-stack 
 
 ### 04. Contact
 
-<div align="center">
-
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="33.3%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="46" height="46" alt="GitHub" />
-        <br /><br />
-        <b>GitHub</b>
-        <br />
-        <sub>@firstphethay11</sub>
+        <img src="assets/card-contact-github.svg" width="100%" alt="GitHub: @firstphethay11" />
       </a>
     </td>
-    <td align="center" width="33.3%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://www.linkedin.com/in/phethay-genko-602261427/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="46" height="46" alt="LinkedIn" />
-        <br /><br />
-        <b>LinkedIn</b>
-        <br />
-        <sub>Jirawat Thiamthanong</sub>
+        <img src="assets/card-contact-linkedin.svg" width="100%" alt="LinkedIn: Jirawat Thiamthanong" />
       </a>
     </td>
-    <td align="center" width="33.3%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="mailto:nongfirst.aoy@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="46" height="46" alt="Email" />
-        <br /><br />
-        <b>Email</b>
-        <br />
-        <sub>nongfirst.aoy@gmail.com</sub>
+        <img src="assets/card-contact-email.svg" width="100%" alt="Email: nongfirst.aoy@gmail.com" />
       </a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/card-contact-location.svg" width="100%" alt="Location: Nakhon Ratchasima, Thailand" />
     </td>
   </tr>
 </table>
 
-<p>
-  📍 <b>Nakhon Ratchasima, Thailand</b>
-</p>
+<br />
 
-<sub>Warm tones &amp; clean code. Built by Jirawat Thiamthanong.</sub>
-
+<div align="center">
+  <sub>Warm tones &amp; clean code. Built by Jirawat Thiamthanong.</sub>
 </div>
