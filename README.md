@@ -130,13 +130,27 @@ Focused on practical software engineering: building production-ready full-stack 
 
 ### 04. Contact
 
-```text
-GitHub    : https://github.com/firstphethay11
-LinkedIn  : https://www.linkedin.com/in/phethay-genko-602261427/
-Email     : nongfirst.aoy@gmail.com
-Location  : Nakhon Ratchasima, Thailand
-```
-
 <div align="center">
+
+  <p>
+    <a href="https://github.com/firstphethay11" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/phethay-genko-602261427/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:nongfirst.aoy@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+    </a>
+  </p>
+
+  <p>
+    📍 Nakhon Ratchasima, Thailand
+  </p>
+
+  <br />
   <sub>Warm tones &amp; clean code. Built by Jirawat Thiamthanong.</sub>
+
 </div>
