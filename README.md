@@ -22,46 +22,88 @@ Focused on practical software engineering: building production-ready full-stack 
 
 ### 02. Real Projects & Repos
 
-#### [RMUTI Dormitory System (Demo Prototype)](https://github.com/firstphethay11/rmuti-dormitory)
-> **Full-Stack Student Dormitory & Maintenance Repair Platform**  
-> `React 19` • `Tailwind v4` • `Express 5` • `MySQL 8.4` • `Docker` • `Socket.IO`
-
-- Web-based maintenance ticketing platform with a role-switching demo environment (Students, Technicians, Admin).
-- Features real-time repair status updates, secure JWT/CSRF authentication, and Dockerized deployment.
-
-#### [IoT & Microcontroller Systems](https://github.com/firstphethay11/iot-microcontroller-coursework)
-> **Hardware Interfacing, Embedded Control & Cloud Automation**  
-> `ESP32` • `MicroPython` • `Arduino C++` • `Firebase` • `I2C / UART`
-
-- Dual-zone temperature & scheduled timer controller with DS3231 precision RTC, 20x4 I2C LCD, and relay automation.
-- Cloud-connected DC motor PWM controller synced via Firebase Realtime Database and a web dashboard.
-
-#### [Mobile Application Development](https://github.com/firstphethay11/flutter-mobile-coursework)
-> **Cross-Platform Mobile Apps Coursework**  
-> `Flutter` • `Dart` • `REST APIs` • `Android`
-
-- Cross-platform engineering coursework covering Flutter reactive state, mobile OS Quick Settings UI simulation, and Material 3 patterns.
-- Hardware device integration: camera viewfinder with haptic shutter, GPS geolocation, and Google Maps routing to Ya Mo Monument.
-- RESTful networking (COVID-19 Situation Dashboard), dynamic student roster form management, and local file persistence.
-
-#### [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
-> **Web Application Engineering Labs & Exams**  
-> `Node.js` • `Express` • `Tailwind CSS` • `MySQL`
-
-- Coursework covering responsive design layouts, modern web fundamentals, and REST API services.
-
-#### [Louis Vuitton E-Commerce Simulation](https://github.com/firstphethay11/louis-vuitton-fullstack)
-> **Educational Luxury E-Commerce Architecture Simulation**  
-> `JavaScript` • `Express` • `MySQL`
-
-- Full-stack e-commerce simulation exploring product catalogs, shopping cart state, and backend API data flows.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/firstphethay11/rmuti-dormitory">
+        <img src="https://img.shields.io/badge/01-RMUTI%20Dormitory%20System-ea580c?style=flat-square&logo=github&logoColor=white" height="24" alt="RMUTI Dormitory System" />
+      </a>
+      <br />
+      <b>Full-Stack Student Dormitory Platform (Demo Prototype)</b><br />
+      <code>React 19</code> • <code>Tailwind v4</code> • <code>Express 5</code> • <code>Docker</code>
+      <ul>
+        <li>Web-based maintenance ticketing platform with a role-switching demo environment (Students, Technicians, Admin).</li>
+        <li>Features real-time repair status updates, secure JWT/CSRF authentication, and Dockerized deployment.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/firstphethay11/iot-microcontroller-coursework">
+        <img src="https://img.shields.io/badge/02-IoT%20%26%20Microcontroller-f59e0b?style=flat-square&logo=github&logoColor=white" height="24" alt="IoT & Microcontroller Systems" />
+      </a>
+      <br />
+      <b>Hardware Interfacing & Embedded Automation</b><br />
+      <code>ESP32</code> • <code>MicroPython</code> • <code>Arduino C</code> • <code>Firebase</code>
+      <ul>
+        <li>Dual-zone temperature & scheduled timer controller with DS3231 precision RTC, 20x4 LCD, and relay automation.</li>
+        <li>Cloud-connected DC motor PWM controller synced via Firebase Realtime Database and a web dashboard.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/firstphethay11/flutter-mobile-coursework">
+        <img src="https://img.shields.io/badge/03-Mobile%20App%20Development-d97706?style=flat-square&logo=github&logoColor=white" height="24" alt="Mobile Application Development" />
+      </a>
+      <br />
+      <b>Cross-Platform Mobile Apps Coursework</b><br />
+      <code>Flutter</code> • <code>Dart</code> • <code>REST APIs</code> • <code>Android</code>
+      <ul>
+        <li>Practical mobile applications and UI/UX coursework developed with Flutter and Dart.</li>
+        <li>Hands-on integration with RESTful backend APIs and responsive mobile layouts.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/firstphethay11/web-dev-coursework">
+        <img src="https://img.shields.io/badge/04-Web%20Dev%20Coursework-ea580c?style=flat-square&logo=github&logoColor=white" height="24" alt="Web Development Coursework" />
+      </a>
+      <br />
+      <b>Web Application Engineering Labs & Exams</b><br />
+      <code>Node.js</code> • <code>Express</code> • <code>Tailwind CSS</code> • <code>MySQL</code>
+      <ul>
+        <li>Coursework covering responsive design layouts, modern web fundamentals, and REST API services.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/firstphethay11/louis-vuitton-fullstack">
+        <img src="https://img.shields.io/badge/05-Louis%20Vuitton%20Simulation-f97316?style=flat-square&logo=github&logoColor=white" height="24" alt="Louis Vuitton E-Commerce Simulation" />
+      </a>
+      <br />
+      <b>Educational Luxury E-Commerce Architecture Simulation</b><br />
+      <code>JavaScript</code> • <code>Express</code> • <code>MySQL</code>
+      <ul>
+        <li>Full-stack e-commerce simulation exploring product catalogs, shopping cart state, and backend API data flows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/06-More%20Projects%20Coming%20Soon-27272a?style=flat-square&logo=github&logoColor=white" height="24" alt="More Projects" />
+      <br />
+      <b>Upcoming Repositories & Research</b><br />
+      <code>In Progress</code> • <code>Open Source</code>
+      <ul>
+        <li>Continuously building and releasing new software engineering projects.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 03. Tech Stack (In Actual Use)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,dart,js,nodejs,express,mysql,cloudflare,docker,nginx,git,linux,c,cpp,py,arduino&theme=dark&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flutter,dart,js,nodejs,c,py,arduino,docker,git,cloudflare&theme=dark&perline=7" alt="Tech Stack" />
 </p>
 
 ---
