@@ -40,8 +40,9 @@ Focused on practical software engineering: building production-ready full-stack 
 > **Cross-Platform Mobile Apps Coursework**  
 > `Flutter` • `Dart` • `REST APIs` • `Android`
 
-- Practical mobile applications and UI/UX coursework developed with Flutter and Dart.
-- Hands-on integration with RESTful backend APIs and responsive mobile layouts.
+- Cross-platform engineering coursework covering Flutter reactive state, mobile OS Quick Settings UI simulation, and Material 3 patterns.
+- Hardware device integration: camera viewfinder with haptic shutter, GPS geolocation, and Google Maps routing to Ya Mo Monument.
+- RESTful networking (COVID-19 Situation Dashboard), dynamic student roster form management, and local file persistence.
 
 #### [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
 > **Web Application Engineering Labs & Exams**  
