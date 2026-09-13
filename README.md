@@ -15,7 +15,7 @@
 
 ### 01. Overview
 
-<img src="assets/overview-animated.svg" width="100%" alt="Jirawat Thiamthanong - Computer Engineering @ RMUTI" />
+<img src="assets/overview-card.svg" width="100%" alt="Jirawat Thiamthanong - Computer Engineering @ RMUTI" />
 
 ---
 
