@@ -30,7 +30,7 @@ Focused on practical software engineering: building production-ready full-stack 
       </a>
       <br /><br />
       <b>Student Dormitory &amp; Maintenance Platform</b><br />
-      <code>React 19</code> â€¢ <code>Tailwind v4</code> â€¢ <code>Express 5</code> â€¢ <code>Docker</code>
+      <code>React 19</code> &bull; <code>Tailwind v4</code> &bull; <code>Express 5</code> &bull; <code>Docker</code>
       <p>
         Online maintenance ticketing platform featuring a multi-role simulation environment and real-time repair status tracking.
       </p>
@@ -41,7 +41,7 @@ Focused on practical software engineering: building production-ready full-stack 
       </a>
       <br /><br />
       <b>Hardware Interfacing &amp; Embedded Automation</b><br />
-      <code>ESP32</code> â€¢ <code>MicroPython</code> â€¢ <code>Arduino C</code> â€¢ <code>Firebase</code>
+      <code>ESP32</code> &bull; <code>MicroPython</code> &bull; <code>Arduino C</code> &bull; <code>Firebase</code>
       <p>
         Dual-zone temperature/timer controller with RTC &amp; LCD, plus cloud-connected DC motor control via Firebase Realtime Database.
       </p>
@@ -54,7 +54,7 @@ Focused on practical software engineering: building production-ready full-stack 
       </a>
       <br /><br />
       <b>Cross-Platform Mobile Apps Coursework</b><br />
-      <code>Flutter</code> â€¢ <code>Dart</code> â€¢ <code>REST APIs</code> â€¢ <code>Android</code>
+      <code>Flutter</code> &bull; <code>Dart</code> &bull; <code>REST APIs</code> &bull; <code>Android</code>
       <p>
         Practical mobile application coursework covering reactive state, device hardware integration, and RESTful API services.
       </p>
@@ -65,7 +65,7 @@ Focused on practical software engineering: building production-ready full-stack 
       </a>
       <br /><br />
       <b>Web Application Engineering Labs &amp; Exams</b><br />
-      <code>Node.js</code> â€¢ <code>Express</code> â€¢ <code>Tailwind CSS</code> â€¢ <code>MySQL</code>
+      <code>Node.js</code> &bull; <code>Express</code> &bull; <code>Tailwind CSS</code> &bull; <code>MySQL</code>
       <p>
         Coursework and practical exams covering modern responsive web design, frontend UI components, and backend REST APIs.
       </p>
@@ -78,7 +78,7 @@ Focused on practical software engineering: building production-ready full-stack 
       </a>
       <br /><br />
       <b>Educational Luxury E-Commerce Simulation</b><br />
-      <code>JavaScript</code> â€¢ <code>Express</code> â€¢ <code>MySQL</code>
+      <code>JavaScript</code> &bull; <code>Express</code> &bull; <code>MySQL</code>
       <p>
         Full-stack e-commerce simulation exploring dynamic product catalogs, persistent shopping cart state, and backend API flows.
       </p>
@@ -87,7 +87,7 @@ Focused on practical software engineering: building production-ready full-stack 
       <img src="assets/card-upcoming.svg" width="100%" alt="Upcoming Projects" />
       <br /><br />
       <b>Upcoming Repositories &amp; Research</b><br />
-      <code>In Progress</code> â€¢ <code>Open Source</code>
+      <code>In Progress</code> &bull; <code>Open Source</code>
       <p>
         Continuously building and releasing new software engineering, web application, and embedded microcontroller projects.
       </p>
