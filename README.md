@@ -26,7 +26,7 @@ Focused on practical software engineering: building production-ready full-stack 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/rmuti-dormitory">
-        <img src="assets/proj-01.svg" width="100%" alt="RMUTI Dormitory System" />
+        <img src="assets/card-dormitory.svg" width="100%" alt="RMUTI Dormitory System" />
       </a>
       <br /><br />
       <b>Student Dormitory &amp; Maintenance Platform</b><br />
@@ -37,7 +37,7 @@ Focused on practical software engineering: building production-ready full-stack 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/iot-microcontroller-coursework">
-        <img src="assets/proj-02.svg" width="100%" alt="IoT & Microcontroller" />
+        <img src="assets/card-iot.svg" width="100%" alt="IoT & Microcontroller" />
       </a>
       <br /><br />
       <b>Hardware Interfacing &amp; Embedded Automation</b><br />
@@ -50,7 +50,7 @@ Focused on practical software engineering: building production-ready full-stack 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/flutter-mobile-coursework">
-        <img src="assets/proj-03.svg" width="100%" alt="Mobile App Development" />
+        <img src="assets/card-mobile.svg" width="100%" alt="Mobile App Development" />
       </a>
       <br /><br />
       <b>Cross-Platform Mobile Apps Coursework</b><br />
@@ -61,7 +61,7 @@ Focused on practical software engineering: building production-ready full-stack 
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/web-dev-coursework">
-        <img src="assets/proj-04.svg" width="100%" alt="Web Dev Coursework" />
+        <img src="assets/card-web.svg" width="100%" alt="Web Dev Coursework" />
       </a>
       <br /><br />
       <b>Web Application Engineering Labs &amp; Exams</b><br />
@@ -74,7 +74,7 @@ Focused on practical software engineering: building production-ready full-stack 
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/firstphethay11/louis-vuitton-fullstack">
-        <img src="assets/proj-05.svg" width="100%" alt="Louis Vuitton Simulation" />
+        <img src="assets/card-louisvuitton.svg" width="100%" alt="Louis Vuitton Simulation" />
       </a>
       <br /><br />
       <b>Educational Luxury E-Commerce Simulation</b><br />
@@ -84,7 +84,7 @@ Focused on practical software engineering: building production-ready full-stack 
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/proj-06.svg" width="100%" alt="Upcoming Projects" />
+      <img src="assets/card-upcoming.svg" width="100%" alt="Upcoming Projects" />
       <br /><br />
       <b>Upcoming Repositories &amp; Research</b><br />
       <code>In Progress</code> • <code>Open Source</code>
