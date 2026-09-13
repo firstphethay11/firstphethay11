@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Jirawat Thiamthanong
 ### `firstphethay11` • Computer Engineering @ RMUTI
@@ -37,11 +37,11 @@ Focused on practical engineering: building production-ready full-stack web appli
 - **Operations:** Containerized development & production compose configs, automated production backup scripts with SHA-256 verification.
 
 #### ⚡ [IoT & Microcontroller Systems](https://github.com/firstphethay11/iot-microcontroller-coursework)
-> Hardware Interfacing, Embedded Control, and Cloud Automation (ESP32 & Arduino)
+> Hardware Interfacing, Embedded Control, and Cloud Automation (ESP32 & MicroPython)
 
-- **Dual-Zone Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 precision RTC, 20x4 I2C LCD, and relay actuation for automated scheduling and thermal threshold triggers.
-- **Cloud-Connected DC Motor Control:** ESP32 firmware running Arduino C++ linked with Firebase Realtime Database and a web dashboard for remote PWM speed and direction control.
-- **Coursework Labs:** TCP socket client/server communication, on-chip HTTP webservers, UART, matrix keypads, ADC sensor sampling, and hardware interrupts.
+- **Precision Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 RTC, 16x2 I2C LCD, 4x4 keypad, and relay/buzzer actuation supporting 14 interactive runtime commands.
+- **Cloud-Connected DC Motor Control:** ESP32 MicroPython firmware integrated with Firebase Realtime Database and a responsive WebApp dashboard for remote PWM speed and direction control.
+- **Coursework Labs:** 14 modular lab modules covering Digital I/O, ADC sensor sampling, PWM, UART, I2C, SPI, timers, interrupts, and IoT sensor-actuator integration.
 
 #### 🌐 [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
 > RMUTI CPE Web Application Development Labs & Practical Exams
