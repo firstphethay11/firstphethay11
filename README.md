@@ -27,21 +27,21 @@ Focused on practical engineering: building production-ready full-stack web appli
 
 ### // 02. Real Projects & Repos
 
-#### 🏢 [RMUTI Dormitory System](https://github.com/firstphethay11/rmuti-dormitory)
-> Full-Stack Student Dormitory & Maintenance Repair Operations Platform
+#### 🏢 RMUTI Dormitory System (Demo Prototype)
+> Full-Stack Student Dormitory & Maintenance Repair Platform (Interactive Demo & Architecture Prototype)
 
-- **Architecture:** Decoupled React frontend and Express REST API backend running in Docker containers behind an Nginx reverse proxy.
+- **Demo & Simulation:** Built with an interactive showcase environment (`VITE_DEMO_MODE`) featuring a role-switcher bar to test end-to-end workflows across Students, Maintenance Technicians, and Dorm Admins.
 - **Frontend:** React 19, Vite, Tailwind CSS v4, TanStack Query, Radix UI, Framer Motion, and FullCalendar.
 - **Backend & Data:** Node.js, Express 5, MySQL 8.4, and Cloudflare R2 (S3-compatible) object storage with presigned URLs.
-- **Security & Realtime:** Multi-role RBAC (Students, Technicians, Admin), JWT authentication with refresh token rotation, CSRF protection, and WebSocket (Socket.IO) real-time event updates.
-- **Operations:** Containerized development & production compose configs, automated production backup scripts with SHA-256 verification.
+- **Security & Realtime:** Multi-role RBAC, JWT authentication with refresh token rotation, CSRF protection, and WebSocket (Socket.IO) real-time event updates.
+- **Operations:** Containerized development & production Docker Compose configs, Nginx reverse proxy, and automated database backup scripts with SHA-256 verification.
 
 #### ⚡ [IoT & Microcontroller Systems](https://github.com/firstphethay11/iot-microcontroller-coursework)
-> Hardware Interfacing, Embedded Control, and Cloud Automation (ESP32 & MicroPython)
+> Hardware Interfacing, Embedded Control, and Cloud Automation (ESP32 & Arduino)
 
-- **Precision Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 RTC, 16x2 I2C LCD, 4x4 keypad, and relay/buzzer actuation supporting 14 interactive runtime commands.
-- **Cloud-Connected DC Motor Control:** ESP32 MicroPython firmware integrated with Firebase Realtime Database and a responsive WebApp dashboard for remote PWM speed and direction control.
-- **Coursework Labs:** 14 modular lab modules covering Digital I/O, ADC sensor sampling, PWM, UART, I2C, SPI, timers, interrupts, and IoT sensor-actuator integration.
+- **Dual-Zone Temperature & Timer Controller:** MicroPython on ESP32 paired with DS3231 precision RTC, 20x4 I2C LCD, and relay actuation for automated scheduling and thermal threshold triggers.
+- **Cloud-Connected DC Motor Control:** ESP32 firmware running Arduino C++ linked with Firebase Realtime Database and a web dashboard for remote PWM speed and direction control.
+- **Coursework Labs:** TCP socket client/server communication, on-chip HTTP webservers, UART, matrix keypads, ADC sensor sampling, and hardware interrupts.
 
 #### 🌐 [Web Development Coursework](https://github.com/firstphethay11/web-dev-coursework)
 > RMUTI CPE Web Application Development Labs & Practical Exams
