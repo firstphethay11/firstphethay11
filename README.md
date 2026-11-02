@@ -175,7 +175,7 @@
 <br />
 
 <div align="center">
-  <img src="assets/footer-wave.svg" width="100%" alt="Footer Wave Divider" />
+  <img src="assets/footer-wave-animated.svg" width="100%" alt="Footer Wave Divider" />
   <br /><br />
   <p align="center">
     <b>⋆ ੈ✩‧₊˚ 🌟 Thanks for visiting my profile! 🌟 ˚₊‧✩ ੈ ⋆</b>
