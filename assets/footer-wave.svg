@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%" height="80">
+  <defs>
+    <!-- Sunset Gradient 1: Deep Dusk Terracotta (Back Layer) -->
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#782015" stop-opacity="0.55"/>
+      <stop offset="35%" stop-color="#9a3412" stop-opacity="0.45"/>
+      <stop offset="70%" stop-color="#b45309" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#782015" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <!-- Sunset Gradient 2: Rich Sunset Amber (Middle Layer) -->
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b45309" stop-opacity="0.75"/>
+      <stop offset="40%" stop-color="#c2410c" stop-opacity="0.8"/>
+      <stop offset="75%" stop-color="#ea580c" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#b45309" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <!-- Sunset Gradient 3: Vibrant Flower Boy Golden Orange (Front Layer) -->
+    <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c" stop-opacity="0.95"/>
+      <stop offset="30%" stop-color="#f59e0b" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#fbbf24" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#ea580c" stop-opacity="0.92"/>
+    </linearGradient>
+
+    <!-- Golden Crest Rim Gradient -->
+    <linearGradient id="crestGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fde047" stop-opacity="0.4"/>
+      <stop offset="35%" stop-color="#fef08a" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#fde047" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#f59e0b" stop-opacity="0.4"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    /* Gentle layered wave breathing animations */
+    @keyframes waveFlow1 {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-3.5px); }
+    }
+    @keyframes waveFlow2 {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(3px); }
+    }
+    @keyframes waveFlow3 {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-2px); }
+    }
+    @keyframes sparkleGlow {
+      0%, 100% { opacity: 0.25; transform: scale(0.85); }
+      50% { opacity: 0.95; transform: scale(1.2); }
+    }
+    .wave-back { animation: waveFlow1 8s ease-in-out infinite; }
+    .wave-mid  { animation: waveFlow2 10s ease-in-out infinite; }
+    .wave-front { animation: waveFlow3 7s ease-in-out infinite; }
+    .sparkle-1 { animation: sparkleGlow 3.6s ease-in-out 0.2s infinite; transform-origin: 190px 24px; }
+    .sparkle-2 { animation: sparkleGlow 4.2s ease-in-out 1.4s infinite; transform-origin: 420px 38px; }
+    .sparkle-3 { animation: sparkleGlow 3.8s ease-in-out 0.8s infinite; transform-origin: 640px 22px; }
+    .sparkle-4 { animation: sparkleGlow 4.6s ease-in-out 2.2s infinite; transform-origin: 790px 28px; }
+  </style>
+
+  <!-- ==================== LAYER 1 (BACK WAVE) ==================== -->
+  <g class="wave-back">
+    <path d="M 0,22 C 160,42 320,10 510,32 C 680,50 780,18 900,26 L 900,80 L 0,80 Z" fill="url(#waveGrad1)"/>
+  </g>
+
+  <!-- ==================== LAYER 2 (MIDDLE WAVE) ==================== -->
+  <g class="wave-mid">
+    <path d="M 0,32 C 180,12 360,44 560,20 C 720,2 820,36 900,22 L 900,80 L 0,80 Z" fill="url(#waveGrad2)"/>
+  </g>
+
+  <!-- ==================== LAYER 3 (FRONT WAVE) ==================== -->
+  <g class="wave-front">
+    <path d="M 0,26 C 200,48 400,24 600,44 C 740,58 830,30 900,36 L 900,80 L 0,80 Z" fill="url(#waveGrad3)"/>
+    <!-- Glowing Golden Crest Rim -->
+    <path d="M 0,26 C 200,48 400,24 600,44 C 740,58 830,30 900,36" fill="none" stroke="url(#crestGrad)" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- ==================== DRIFTING GOLDEN SPARKLES / SUNSET POLLEN ==================== -->
+  <circle cx="190" cy="24" r="2.0" fill="#fef08a" class="sparkle-1"/>
+  <circle cx="420" cy="38" r="1.8" fill="#fde047" class="sparkle-2"/>
+  <circle cx="640" cy="22" r="2.2" fill="#fef08a" class="sparkle-3"/>
+  <circle cx="790" cy="28" r="1.7" fill="#fbbf24" class="sparkle-4"/>
+</svg>

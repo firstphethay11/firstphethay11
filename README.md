@@ -175,5 +175,10 @@
 <br />
 
 <div align="center">
+  <img src="assets/footer-wave.svg" width="100%" alt="Footer Wave Divider" />
+  <br /><br />
+  <p align="center">
+    <b>⋆ ੈ✩‧₊˚ 🌟 Thanks for visiting my profile! 🌟 ˚₊‧✩ ੈ ⋆</b>
+  </p>
   <sub>Warm tones &amp; clean code. Built by Jirawat Thiamthanong.</sub>
 </div>
